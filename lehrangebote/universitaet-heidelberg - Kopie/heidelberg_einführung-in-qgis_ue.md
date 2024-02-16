@@ -1,0 +1,12 @@
+﻿---
+title: Einführung in QGIS
+lehrende: Döpper, Stephanie
+einrichtung: Universität Heidelberg
+stadt: Heidelberg
+studiengang: Cultural Heritage und Kulturgüterschutz (HCCH)
+lv-typ: Übung
+link: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/wbLv.wbShowLVDetail?$ctx=design=ca2;header=max&pStpSpNr=124689
+zielgruppe:
+  - MA
+
+
